@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Socio.media/static/css/main.7f440045.css",
+    "main.js": "/Socio.media/static/js/main.fd60f2ca.js",
+    "static/media/friend5.jpg": "/Socio.media/static/media/friend5.ab82372245a9fbee05c7.jpg",
+    "static/media/friend2.jpg": "/Socio.media/static/media/friend2.6d8bb0c58a6b7398b8da.jpg",
+    "static/media/friend1.jpg": "/Socio.media/static/media/friend1.d57ef65dc561aba7c3db.jpg",
+    "static/media/dp.jpg": "/Socio.media/static/media/dp.90f7a9772f0ec8022d86.jpg",
+    "static/media/friend6.jpg": "/Socio.media/static/media/friend6.628d3257d7655c3f462d.jpg",
+    "static/media/friend4.jpg": "/Socio.media/static/media/friend4.0927897f3ab9c5babae3.jpg",
+    "static/media/onlinefriend1.jpg": "/Socio.media/static/media/onlinefriend1.717a360128a8786afc70.jpg",
+    "static/media/friend3.jpg": "/Socio.media/static/media/friend3.f050522789a7caeb503e.jpg",
+    "index.html": "/Socio.media/index.html",
+    "main.7f440045.css.map": "/Socio.media/static/css/main.7f440045.css.map",
+    "main.fd60f2ca.js.map": "/Socio.media/static/js/main.fd60f2ca.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f440045.css",
+    "static/js/main.fd60f2ca.js"
+  ]
+}
