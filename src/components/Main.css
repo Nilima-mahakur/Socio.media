@@ -1,0 +1,10 @@
+.main {
+    width: 50%;
+    float: left;
+    height: 100vh;
+    /* background-color: red; */
+    
+}
+.mainwrapper{
+    padding: 20px;
+}
